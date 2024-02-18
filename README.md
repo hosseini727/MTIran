@@ -10,7 +10,7 @@ It is seven with .NET Core. This project showcases the usage of .NET Core for va
 - Feature 2: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ## How to Use
 
-You can test APIs with Suger. Follow the instructions below to get started:
+You can test APIs with Swagger. Follow the instructions below to get started:
 
 1. Clone this repository to your local machine.
 2. Open the project in your preferred IDE.
